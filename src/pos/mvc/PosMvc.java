@@ -18,8 +18,8 @@ public class PosMvc {
      */
     public static void main(String[] args) {
         //new CustomerView().setVisible(true);
-        //new OrderView().setVisible(true);
-        new ItemView().setVisible(true);
+        new OrderView().setVisible(true);
+        //new ItemView().setVisible(true);
     }
     
 }
